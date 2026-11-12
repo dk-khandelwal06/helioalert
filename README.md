@@ -25,6 +25,8 @@ HelioAlert combines historical NASA OMNI2 solar-wind observations, live NOAA SWP
 <a href="https://helioalert-taupe.vercel.app/"><img src="https://img.shields.io/badge/LIVE_DEMO-Explore_the_application-FF8A00?style=for-the-badge&labelColor=050B18" alt="Live demo: helioalert-taupe.vercel.app"></a>
 &nbsp;
 <a href="https://github.com/dk-khandelwal06/helioalert"><img src="https://img.shields.io/badge/GITHUB-View_the_repository-16BFFF?style=for-the-badge&logo=github&logoColor=F4F7FC&labelColor=050B18" alt="GitHub repository: dk-khandelwal06/helioalert"></a>
+&nbsp;
+<a href=""><img src="https://img.shields.io/badge/DEMO_VIDEO-Helio_Alert-FF8A00?style=for-the-badge&labelColor=050B18" alt="Demo Video: "></a>
 
 <br>
 
